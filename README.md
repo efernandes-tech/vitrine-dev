@@ -14,4 +14,4 @@ O objetivo deste projeto é ser a minha página na internet.
 
 ## Detalhes do projeto
 
-Projeto criado para manter online minhas informações proficionais.
+Projeto criado para manter online minhas informações profissionais.
