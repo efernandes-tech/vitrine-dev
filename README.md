@@ -5,7 +5,7 @@ O objetivo deste projeto é ser a minha página na internet.
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **proj-002-my-page**
-| :label: Tecnologias | html, css, javascript
+| :label: Tecnologias | react, vite, and chakra-ui
 | :rocket: URL         | http://www.edersonfernandes.com.br/
 | :fire: Desafio     | http://www.edersonfernandes.com.br/
 
